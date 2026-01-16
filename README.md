@@ -2,6 +2,54 @@
 
 A modern, full-stack library management system that makes browsing, borrowing, and managing books effortless. Built with Spring Boot and React, LibraryHub offers a clean interface for users to explore a vast collection of books while providing robust authentication and borrowing features.
 
+🔐 Authentication (Login & Signup)
+<div align="center"> <table> <tr> <td align="center" style="border:none;"> <img src="screenshots/Login.jpeg" width="260" /> <br/><b>Login</b> </td>
+<td width="50"></td>
+
+<td align="center" style="border:none;">
+  <img src="screenshots/Signup.jpeg" width="260" />
+  <br/><b>Signup</b>
+</td>
+
+<td width="50"></td>
+
+<td align="center" style="border:none;">
+  <img src="screenshots/Google_signup.jpeg" width="260" />
+  <br/><b>Google Signup</b>
+</td>
+
+</tr> <tr height="50"></tr> <tr> <td colspan="5" align="center"> <img src="screenshots/alternative_login_or_signup.jpeg" width="260" /> <br/><b>Alternative Login / Signup</b> </td> </tr> </table> </div>
+
+📚 Application Interface 
+<div align="center"> <!-- Row 1: 3 images --> <table> <tr> <td align="center"> <img src="screenshots/HomePage.jpeg" width="260" /> <br/><b>Home Page</b> </td>
+<td width="60"></td>
+
+<td align="center">
+  <img src="screenshots/HomePage2.jpeg" width="260" />
+  <br/><b>Home Page (Alt)</b>
+</td>
+
+<td width="60"></td>
+
+<td align="center">
+  <img src="screenshots/BrowseBook.jpeg" width="260" />
+  <br/><b>Browse Books</b>
+</td>
+
+</tr> </table>
+
+<br/><br/>
+
+<!-- Row 2: 2 images centered --> <table> <tr> <td align="center"> <img src="screenshots/BookDetails.jpeg" width="260" /> <br/><b>Book Details</b> </td>
+<td width="80"></td>
+
+<td align="center">
+  <img src="screenshots/BrowseHistory.jpeg" width="260" />
+  <br/><b>Borrow History</b>
+</td>
+
+</tr> </table> </div>
+
 ## ✨ Features
 
 ### Authentication & Security
@@ -50,6 +98,10 @@ A modern, full-stack library management system that makes browsing, borrowing, a
   - Collections: Users, Books, Borrows
   - 50K+ book records with metadata
   - Indexed searches for performance
+ 
+
+
+
 
 ## 🗄️ Database Schema
 
